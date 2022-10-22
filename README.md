@@ -1,7 +1,7 @@
 # EjemploGit
-Comandos básicos elaborado por Yiam Rodríguez miembro del club Kokoa
+## Comandos básicos elaborado por Yiam Rodríguez miembro del club Kokoa
 
-Los comandos basicos de git son:
+### Los comandos basicos de git son:
 
 Clonar repositorio
 git clone
@@ -22,7 +22,7 @@ Bajar cambios
 git pull
 
 
-Comandos basicos de linux:
+### Comandos basicos de linux:
 
 
 Listar directorios
